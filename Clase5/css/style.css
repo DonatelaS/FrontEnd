@@ -1,0 +1,51 @@
+body{font-family: Calibri, Arial, Helvetica, sans-serif;
+margin: 0;
+}
+
+header{
+    background-color: rgb(243, 208, 214);
+    list-style: 1;
+    line-height: 2;
+    text-align: center;
+}
+#perfil{
+    margin-top: 20px;
+}
+/* ctrl + } es para comentarios*/
+
+main{
+    margin: 20px auto;
+    text-align: center;
+}
+
+h1,h2{
+    text-align: center;
+}
+
+h2{
+    background-color: rgb(243, 208, 214); 
+}
+
+.item-title{
+    font-weight: bold;
+}
+
+dd{
+    margin-right: 200px;
+    margin-left:  200px;
+}
+
+article{
+    margin-right: 200px;
+    margin-left:  200px;
+}
+footer{
+    background-color: rgb(243, 208, 214);
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+.img-link{
+    width: 30px;
+    height: 30px;
+}
